@@ -223,3 +223,9 @@ __marimo__/
 /data/cifar-10-python.tar.gz
 /data/cifar-10-batches-py/
 /data/MNIST/
+/data/hymenoptera_data.zip
+/data/hymenoptera_data/
+
+# Generated model checkpoints
+/resnet18_feature_extractor.pth
+/resnet18_finetuned.pth
